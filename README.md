@@ -10,8 +10,8 @@ DONE: 1, 2, 3
 
 TODO: 4
 
-Run this code in cmd opened in "Scrape_task" folder:
-python main.py
+Run this code in cmd opened in "Scrape_task" folder: <br />
+python main.py <br />
 python server.py
 
 Server example:
