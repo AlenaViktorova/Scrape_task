@@ -11,8 +11,8 @@
 **TODO:** 4
 
 **Run this code in cmd opened in "Scrape_task" folder:** <br />
-*python main.py <br />
-*python server.py
+*python main.py* <br />
+*python server.py*
 
 **Server example:**
 
