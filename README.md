@@ -11,4 +11,5 @@ Hotovo: 1, 2, 3
 TODO: 4
 
 Náhled sevreru:
-<img width="1280" alt="web_screen" src="https://github.com/AlenaViktorova/Scrape_task/assets/134233124/f60eee6d-8e5f-4d15-8ce3-c9cfaeb64e7f">
+
+<img width="1280" alt="web_screen" src="https://github.com/AlenaViktorova/Scrape_task/assets/134233124/8db91bb3-db4c-47f6-aa57-8465b8b61be6">
